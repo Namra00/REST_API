@@ -12,7 +12,7 @@ There are two .py files. api.py includes the basic featuring of data without usi
 you need to install python and flask in order to run this api in your local system
 
 ```
-Give examples
+pip install flask
 ```
 
 ### Installing
